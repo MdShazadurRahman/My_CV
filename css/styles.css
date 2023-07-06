@@ -237,7 +237,7 @@ sup {
 }
 
 a {
-  color: #da770f;
+  color: (13 84 134);
   text-decoration: underline;
 }
 a:hover {
@@ -7719,7 +7719,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: rgba(13, 84, 134) !important;
 }
 
 .text-secondary {
